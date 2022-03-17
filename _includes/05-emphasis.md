@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*my name is venu*
+_my surname is Hemane_
+**this is my sister**
+__this is my mother__
+__i am**good**girl__
